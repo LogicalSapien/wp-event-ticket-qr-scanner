@@ -1,0 +1,1 @@
+# wp-event-ticket-qr-scanner
